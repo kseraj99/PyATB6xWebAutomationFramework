@@ -9,7 +9,7 @@ __pycache__/
 # ================================
 # Virtual Environments
 # ================================
-.venv/
+#.venv/
 venv/
 env/
 
@@ -23,7 +23,7 @@ htmlcov/
 # ================================
 # Allure Reports
 # ================================
-allure-results/
+#allure-results/
 allure-report/
 
 # ================================
@@ -47,4 +47,4 @@ Thumbs.db
 # ================================
 # Environment variables
 # ================================
-.env
+#.env
