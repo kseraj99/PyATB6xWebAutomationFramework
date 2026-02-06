@@ -6,7 +6,7 @@ from dotenv import load_dotenv
 from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.common.by import By
 from selenium.webdriver.edge.options import Options
-from utils.Utils import take_screen_shot
+from utils.utils import take_screen_shot
 
 
 
